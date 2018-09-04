@@ -3,7 +3,7 @@
     "type" : "yii2-extension",
     "autoload" : {
         "psr-4" : {
-            "yii\\yii2bitrix24" : ""
+            "yii\\yii2bitrix24\\" : ""
         }
     }
 }
