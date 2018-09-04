@@ -1,6 +1,6 @@
 <?php
 
-namespace iddqd\yii2bitrix24;
+namespace yii\yii2bitrix24;
 
 use yii\base\Component;
 
