@@ -1,0 +1,9 @@
+{
+    "name" : "iddqd-roman/yii2-bitrix24",
+    "type" : "yii2-extension",
+    "autoload" : {
+        "psr-4" : {
+            "iddqd-roman\\yii2bitrix24\\" : ""
+        }
+    }
+}
